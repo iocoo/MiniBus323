@@ -178,7 +178,7 @@
 
 
     data = {
-      baseurl : 'https://ingress.jellykitty.com/wxbus/?towards=',
+      baseurl : 'https://api.mujins.com/wxbus/?towards=',
       direction:'',
       businfo:[],
       prasetag:'busShow',
